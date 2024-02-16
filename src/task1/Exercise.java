@@ -1,6 +1,6 @@
 package task1;
 
-public class Output {
+public class Exercise {
 
     public void sayHelloIfNumberGraterThan7(int number) {
         if (number > 7) {
